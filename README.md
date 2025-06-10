@@ -26,7 +26,7 @@ who values clean code, elegant UI, and creative problem solving.
 - 🌱 Always learning, always building
 
 **Contact & Links:**  
-[🌐 VNOI Online Judge](https://oj.vnoi.info/user/akari310) | [✉️ Email](mailto:ngocanhyb2009@gmail.com)
+[🌐 VNOI Online Judge](https://oj.vnoi.info/user/akari310) | [✉️ Email](ngocanhyb2009@gmail.com)
 
 ---
 
