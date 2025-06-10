@@ -104,7 +104,7 @@ Secret.
 
 ---
 
-## 🏞️ Gallery
+## 🖼️ Gallery
 
 **Shiraori (Kumo Desu ga, Nani ka?)**  
 ![Shiraori (Kumo Desu ga, Nani ka?)](https://cdn.donmai.us/original/17/84/__shiraori_kumo_desu_ga_nani_ka_drawn_by_shi_qi_kuang_beng__178456b789ca743565504d44bd4f1302.jpg)
