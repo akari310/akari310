@@ -106,15 +106,11 @@ Secret.
 
 ## 🖼️ Gallery
 
-**Shiraori (Kumo Desu ga, Nani ka?)**  
+**Shiraori (Kumo Desu ga, Nani ka?)**
+
+Shiraori, the spider goddess, symbolizes my passion for creative problem solving!
 ![Shiraori (Kumo Desu ga, Nani ka?)](https://cdn.donmai.us/original/17/84/__shiraori_kumo_desu_ga_nani_ka_drawn_by_shi_qi_kuang_beng__178456b789ca743565504d44bd4f1302.jpg)
-<sub>Shiraori, the spider goddess, symbolizes my passion for creative problem solving!</sub>
-
-![Cherry Blossom Landscape](https://i.pinimg.com/1200x/a4/39/f4/a439f4a05c4e62734611a143f8b55d8c.jpg)
-<sub>Cherry blossoms: Beauty in simplicity and fleeting moments, a theme I try to bring to my UI work.</sub>
-
-![Anime Character](https://i.pinimg.com/1200x/7c/13/72/7c13721ad0fd69f4a28033c238b2a7a0.jpg)
-<sub>Anime art is my creative outlet after a day of coding.</sub>
+![](https://i.pinimg.com/1200x/a4/39/f4/a439f4a05c4e62734611a143f8b55d8c.jpg)
 
 ---
 
