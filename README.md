@@ -1,16 +1,24 @@
 <!-- Profile README for akari310 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Dev%20%7C%20Competitive%20Programmer;Nai%20wa%20~;Enjoy%20your%20stay!&font=Fira+Code&center=true&width=600&duration=2500&pause=1200&color=8E44AD&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Dev%20%7C%20Competitive%20Programmer;Enjoy%20your%20stay!&font=Fira+Code&center=true&width=600&duration=2500&pause=600" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/VAkEz8u.gif" alt="Akari Banner" width="400"/>
+  <img src="https://i.imgur.com/VAkEz8u.gif" alt="Animated Akari Banner: waving anime character" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://access-counter.vercel.app/api/counter?name=akari310&theme=006&length=5" alt="Visitor Counter"/>
+  <img src="https://access-counter.vercel.app/api/counter?name=akari310&theme=006&length=5" alt="Visitor Counter: Total profile visitors"/>
 </p>
+
+---
+
+## 🚀 Getting Started
+
+Interested in my work?
+- Browse my [repositories](https://github.com/akari310?tab=repositories).
+- Want to collaborate? [Open an issue](https://github.com/akari310/akari310/issues) or reach out via [email](mailto:ngocanhyb2009@gmail.com)!
 
 ---
 
@@ -26,7 +34,7 @@ who values clean code, elegant UI, and creative problem solving.
 - 🌱 Always learning, always building
 
 **Contact & Links:**  
-[🌐 VNOI Online Judge](https://oj.vnoi.info/user/akari310) | [✉️ Email](ngocanhyb2009@gmail.com)
+[🌐 VNOI Online Judge](https://oj.vnoi.info/user/akari310) | [✉️ Email](mailto:ngocanhyb2009@gmail.com)
 
 ---
 
@@ -60,22 +68,41 @@ who values clean code, elegant UI, and creative problem solving.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akari310&layout=compact&theme=calm" height="160" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akari310&theme=onedark&column=7"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akari310&theme=calm" />
+</p>
+
 ---
 
 ## 🏞️ Gallery
 
 <p align="center">
-  <img src="https://cdn.donmai.us/original/17/84/__shiraori_kumo_desu_ga_nani_ka_drawn_by_shi_qi_kuang_beng__178456b789ca743565504d44bd4f1302.jpg" alt="Art 1" width="220"/>
-  <img src="https://i.pinimg.com/1200x/a4/39/f4/a439f4a05c4e62734611a143f8b55d8c.jpg" alt="Art 2" width="220"/>
-  <img src="https://i.pinimg.com/1200x/7c/13/72/7c13721ad0fd69f4a28033c238b2a7a0.jpg" alt="Art 3" width="220"/>
+  <img src="https://cdn.donmai.us/original/17/84/__shiraori_kumo_desu_ga_nani_ka_drawn_by_shi_qi_kuang_beng__178456b789ca743565504d44bd4f1302.jpg" alt="Anime-style art of spider character from Kumo Desu ga, Nani ka?" width="220"/>
+  <img src="https://i.pinimg.com/1200x/a4/39/f4/a439f4a05c4e62734611a143f8b55d8c.jpg" alt="Anime-style landscape with cherry blossoms" width="220"/>
+  <img src="https://i.pinimg.com/1200x/7c/13/72/7c13721ad0fd69f4a28033c238b2a7a0.jpg" alt="Anime-style character with purple background" width="220"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-- 🌱 **[See my repositories](https://github.com/akari310?tab=repositories)** for web apps, CP solutions, and more!
+- 🎨 **[Portfolio Website](https://github.com/akari310/portfolio)**: My personal portfolio, built with React and styled-components.
+- 🧩 **[Algorithm Visualizer](https://github.com/akari310/algorithm-visualizer)**: Tool for visualizing algorithms interactively.
+- 🌱 **[See all repositories](https://github.com/akari310?tab=repositories)** for web apps, CP solutions, and more!
 - 🏁 Always open to collaboration — feel free to reach out!
+
+---
+
+## ❓ FAQ
+
+**Q: Can I use your code?**  
+A: Yes! Please check the license in each repo and give credit if you use my work.
+
+**Q: How can I contact you?**  
+A: Email is best: [ngocanhyb2009@gmail.com](mailto:ngocanhyb2009@gmail.com)
 
 ---
 
@@ -88,12 +115,12 @@ who values clean code, elegant UI, and creative problem solving.
 
 <p align="center">
   <a href="https://youtu.be/2IGwPRU28H8?si=48V4m9ebKQpo0Tht&t=8">
-    <img src="https://media.tenor.com/7J9uYvQWv4wAAAAC/blink-anime.gif" width="90" alt="Blink Blink"/>
+    <img src="https://media.tenor.com/7J9uYvQWv4wAAAAC/blink-anime.gif" width="90" alt="Blinking anime character"/>
     <br/>
     <sub>✨ Blink Blink for you! ✨</sub>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Have%20a%20wonderful%20day!-c9e7f2?style=for-the-badge&logo=star&logoColor=e67e22">
+  <img src="https://img.shields.io/badge/Have%20a%20wonderful%20day!-c9e7f2?style=for-the-badge&logo=star&logoColor=e67e22" alt="Have a wonderful day!"/>
 </p>
