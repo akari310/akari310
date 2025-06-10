@@ -84,8 +84,8 @@ Secret.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akari310&show_icons=true&theme=calm" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akari310&layout=compact&theme=calm" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akari310&show_icons=true&theme=calm" height="160" width="360"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akari310&layout=compact&theme=calm" height="160" width="360"/>
 </p>
 
 ---
