@@ -84,17 +84,8 @@ Secret.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akari310&show_icons=true&hide_title=true&theme=calm" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akari310&show_icons=true&theme=calm" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akari310&layout=compact&theme=calm" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akari310&theme=onedark&column=7"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akari310&theme=calm" />
-</p>
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/akari310.svg" alt="GitHub Activity Chart" />
 </p>
 
 ---
