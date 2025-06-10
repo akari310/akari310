@@ -20,7 +20,7 @@
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📈 GitHub Stats](#-github-stats)
 - [🏆 Achievements & Certifications](#-achievements--certifications)
-- [🏞️ Gallery](#-gallery)
+- [🏞️ Gallery](#%EF%B8%8F-gallery)
 - [📌 Featured Projects](#-featured-projects)
 - [❓ FAQ](#-faq)
 - [💬 Quote](#-quote)
