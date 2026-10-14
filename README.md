@@ -38,13 +38,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
-  <img alt="Cumulative contributions over the last 52 weeks, reaching 510" src="assets/activity-light.svg" width="686">
+  <img alt="Cumulative contributions over the last 53 weeks, reaching 520" src="assets/activity-light.svg" width="686">
 </picture>
 
 </div>
 
 <sub>Lao Cai, Vietnam · 5 public repositories · joined GitHub 2 years ago<br>
-Contributions climbing week by week — 510 in the last year, in three bursts.</sub>
+Contributions climbing week by week — 520 in the last year, in three bursts.</sub>
 
 ---
 
