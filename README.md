@@ -6,7 +6,7 @@
 
 **Full Stack Developer · Competitive Programmer**
 
-[![Typing](https://readme-typing-svg.demolab.com/?lines=Clean+code+over+clever+code.+;Readable+is+maintainable.&font=Fira+Code&center=true&width=520&duration=4500&pause=1800&color=3FB950)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com/?lines=Make+it+work,+make+it+right,+make+it+fast.;%E2%80%94+Kent+Beck&font=Fira+Code&center=true&width=560&duration=5000&pause=2000&color=3FB950)](https://git.io/typing-svg)
 
 <img src="https://access-counter.vercel.app/api/counter?name=akari310&theme=transparent&length=5&align=center" alt="Total profile visits" height="54">
 
